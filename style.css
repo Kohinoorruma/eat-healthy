@@ -42,6 +42,7 @@ body {
     padding: 10px 40px;
     border-radius: 5px;
 
+
 }
 
 .about-me {
@@ -59,7 +60,7 @@ body {
 }
 
 .half-width-two img {
-    width: 41%;
+    width: 60%;
     padding-top: 7%;
 }
 
@@ -72,6 +73,7 @@ body {
     padding: 0px 200px 15px 0px;
     color: grey;
 }
+
 
 .recipies-title {
     text-align: center;
