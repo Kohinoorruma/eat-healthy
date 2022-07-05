@@ -115,3 +115,58 @@ body {
     color: grey;
     padding: 0px 200px 20px 0px;
 }
+
+.social-media {
+    display: flex;
+
+}
+
+.followers {
+    width: 1170px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 2%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+
+}
+
+.followers span {
+    padding-left: 45%;
+    text-align: center;
+    font-size: 20px;
+}
+
+.followers p {
+    text-align: center;
+    color: grey;
+}
+
+footer {
+    text-align: center;
+    background-color: midnightblue;
+    height: 150px;
+    margin-top: 100px;
+}
+
+footer h5 {
+    padding-top: 30px;
+    font-size: 20px;
+    color: darkgray;
+}
+
+footer h5 span {
+    color: chocolate;
+}
+
+footer p {
+    color: cornsilk;
+}
+
+.review-project {
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-right: 20px;
+    padding-left: 20px;
+
+}
