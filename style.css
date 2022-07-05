@@ -5,6 +5,7 @@ body {
 
 .top-banner {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .half-width {
@@ -16,6 +17,7 @@ body {
 .half-width h1 {
     color: rgba(22, 20, 20, 0.782);
     font-size: 40px;
+    padding-top: 8%;
 }
 
 .half-width h1 span {
@@ -24,13 +26,14 @@ body {
 
 .half-width p {
     color: darkgray;
+    padding-bottom: 10px;
 
 }
 
 .half-width img {
     width: 80%;
-
 }
+
 
 .link-button {
     text-decoration: none;
@@ -39,4 +42,76 @@ body {
     padding: 10px 40px;
     border-radius: 5px;
 
+}
+
+.about-me {
+    background-image: url(images/frame.jpg);
+    background-size: cover;
+    display: flex;
+    margin-bottom: 100px;
+
+}
+
+.half-width-two {
+    width: 40%;
+    margin-left: 20%;
+
+}
+
+.half-width-two img {
+    width: 41%;
+    padding-top: 7%;
+}
+
+.half-width-two h3 {
+    padding-top: 12%;
+    color: darkslategray;
+}
+
+.half-width-two p {
+    padding: 0px 200px 15px 0px;
+    color: grey;
+}
+
+.recipies-title {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.recipies-title h3 {
+    color: darkslategray;
+}
+
+.recipies-title p {
+    padding: 0px 550px;
+    color: grey;
+}
+
+#food-review {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.meat-cooking {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+.meat-cooking img {
+    width: 100%;
+}
+
+.meat-cooking h4 {
+    color: black;
+    font-weight: 600;
+}
+
+.meat-cooking p {
+    color: grey;
+    padding: 0px 200px 20px 0px;
 }
